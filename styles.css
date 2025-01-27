@@ -91,6 +91,12 @@ section {
 }
 
 /* Sprint pages */
+.sprint-meet img {
+  max-width: 65%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
 .sprint-section img {
   max-width: 100%;
   height: auto;
