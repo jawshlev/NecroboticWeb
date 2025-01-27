@@ -96,6 +96,11 @@ section {
   height: auto;
   margin-bottom: 1rem;
 }
+.sprint-section img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
 
 .sprint-section img {
   max-width: 100%;
@@ -122,6 +127,16 @@ section {
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
+}
+
+.side-by-side img{
+  width: 500px;
+  height: 500px;
+  margin-bottom: 1rem;
+}
+.side-by-side h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
 }
 
 .team-member img {
