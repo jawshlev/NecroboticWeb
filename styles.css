@@ -138,6 +138,28 @@ section {
   font-size: 1.3rem;
   margin-bottom: 0.5rem;
 }
+.side-by-side1 img{
+  width: 640px;
+  height: 480px;
+  margin-bottom: 1rem;
+}
+.side-by-side2 img{
+  width: 350px;
+  height: 150px;
+  margin-bottom: 1rem;
+}
+.side-by-side2 h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+.side-by-side3 img{
+  width: 400px;
+  height: 75px;
+}
+.side-by-side4 img{
+  width: 450px;
+  height: 350px;
+}
 
 .team-member img {
   width: 150px;
